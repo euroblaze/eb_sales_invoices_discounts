@@ -20,13 +20,13 @@
 #
 ##############################################################################
 {
-    'name': 'eb_sales_invoices_discounts',
+    'name': 'Discount on sales and invoices',
     'description': 'Manage Discount on Sale Order  and Invoice ',
     'summary': '',
     'category': 'Accounting & Sales ',
     'version': '10.0.1.0',
     'website': 'www.euroblaze.de',
-    'author': 'Geetha Reddy',
+    'author': 'Geetha Reddy @ EUROBLAZE.DE',
     'depends': ['base', 'account', 'account_accountant', 'sale'],
     'data': [
         'views/views.xml',
